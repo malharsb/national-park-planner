@@ -1,0 +1,249 @@
+parks:
+  - name: Acadia
+    state: Maine
+    lat: 44.3386
+    lon: -68.2733
+  - name: Arches
+    state: Utah
+    lat: 38.7331
+    lon: -109.5925
+  - name: Badlands
+    state: South Dakota
+    lat: 43.8554
+    lon: -102.3397
+  - name: Big Bend
+    state: Texas
+    lat: 29.1275
+    lon: -103.2425
+  - name: Biscayne
+    state: Florida
+    lat: 25.4824
+    lon: -80.4300
+  - name: Black Canyon of the Gunnison
+    state: Colorado
+    lat: 38.5754
+    lon: -107.7416
+  - name: Bryce Canyon
+    state: Utah
+    lat: 37.5930
+    lon: -112.1871
+  - name: Canyonlands
+    state: Utah
+    lat: 38.2000
+    lon: -109.9300
+  - name: Capitol Reef
+    state: Utah
+    lat: 38.0877
+    lon: -111.1486
+  - name: Carlsbad Caverns
+    state: New Mexico
+    lat: 32.1479
+    lon: -104.5567
+  - name: Channel Islands
+    state: California
+    lat: 34.0069
+    lon: -119.7785
+  - name: Congaree
+    state: South Carolina
+    lat: 33.7948
+    lon: -80.7820
+  - name: Crater Lake
+    state: Oregon
+    lat: 42.9446
+    lon: -122.1090
+  - name: Cuyahoga Valley
+    state: Ohio
+    lat: 41.2808
+    lon: -81.5678
+  - name: Death Valley
+    state: California
+    lat: 36.5054
+    lon: -117.0794
+  - name: Denali
+    state: Alaska
+    lat: 63.3333
+    lon: -150.5000
+  - name: Dry Tortugas
+    state: Florida
+    lat: 24.6282
+    lon: -82.8732
+  - name: Everglades
+    state: Florida
+    lat: 25.2866
+    lon: -80.8987
+  - name: Gates of the Arctic
+    state: Alaska
+    lat: 67.7722
+    lon: -153.3000
+  - name: Gateway Arch
+    state: Missouri
+    lat: 38.6247
+    lon: -90.1848
+  - name: Glacier
+    state: Montana
+    lat: 48.6960
+    lon: -113.7180
+  - name: Glacier Bay
+    state: Alaska
+    lat: 58.6658
+    lon: -136.9000
+  - name: Grand Canyon
+    state: Arizona
+    lat: 36.1070
+    lon: -112.1130
+  - name: Grand Teton
+    state: Wyoming
+    lat: 43.7904
+    lon: -110.6818
+  - name: Great Basin
+    state: Nevada
+    lat: 38.9831
+    lon: -114.3000
+  - name: Great Sand Dunes
+    state: Colorado
+    lat: 37.7329
+    lon: -105.5113
+  - name: Great Smoky Mountains
+    state: Tennessee/North Carolina
+    lat: 35.6118
+    lon: -83.4895
+  - name: Guadalupe Mountains
+    state: Texas
+    lat: 31.9231
+    lon: -104.8714
+  - name: Haleakala
+    state: Hawaii
+    lat: 20.7204
+    lon: -156.1552
+  - name: Hawaii Volcanoes
+    state: Hawaii
+    lat: 19.4194
+    lon: -155.2885
+  - name: Hot Springs
+    state: Arkansas
+    lat: 34.5217
+    lon: -93.0424
+  - name: Indiana Dunes
+    state: Indiana
+    lat: 41.6530
+    lon: -87.0526
+  - name: Isle Royale
+    state: Michigan
+    lat: 48.0127
+    lon: -88.8330
+  - name: Joshua Tree
+    state: California
+    lat: 33.8734
+    lon: -115.9010
+  - name: Katmai
+    state: Alaska
+    lat: 58.5000
+    lon: -154.9667
+  - name: Kenai Fjords
+    state: Alaska
+    lat: 59.9195
+    lon: -150.1806
+  - name: Kings Canyon
+    state: California
+    lat: 36.8879
+    lon: -118.5551
+  - name: Kobuk Valley
+    state: Alaska
+    lat: 67.3450
+    lon: -159.1250
+  - name: Lake Clark
+    state: Alaska
+    lat: 60.9669
+    lon: -153.4172
+  - name: Lassen Volcanic
+    state: California
+    lat: 40.4977
+    lon: -121.4207
+  - name: Mammoth Cave
+    state: Kentucky
+    lat: 37.1862
+    lon: -86.1000
+  - name: Mesa Verde
+    state: Colorado
+    lat: 37.1853
+    lon: -108.4925
+  - name: Mount Rainier
+    state: Washington
+    lat: 46.8800
+    lon: -121.7269
+  - name: New River Gorge
+    state: West Virginia
+    lat: 37.8072
+    lon: -81.0795
+  - name: North Cascades
+    state: Washington
+    lat: 48.7718
+    lon: -121.2985
+  - name: Olympic
+    state: Washington
+    lat: 47.8021
+    lon: -123.6044
+  - name: Petrified Forest
+    state: Arizona
+    lat: 34.9823
+    lon: -109.7877
+  - name: Pinnacles
+    state: California
+    lat: 36.4906
+    lon: -121.1825
+  - name: Redwood
+    state: California
+    lat: 41.2132
+    lon: -124.0046
+  - name: Rocky Mountain
+    state: Colorado
+    lat: 40.3428
+    lon: -105.6836
+  - name: Saguaro
+    state: Arizona
+    lat: 32.2967
+    lon: -111.1666
+  - name: Sequoia
+    state: California
+    lat: 36.4864
+    lon: -118.5658
+  - name: Shenandoah
+    state: Virginia
+    lat: 38.4755
+    lon: -78.4535
+  - name: Theodore Roosevelt
+    state: North Dakota
+    lat: 46.9797
+    lon: -103.5387
+  - name: Virgin Islands
+    state: US Virgin Islands
+    lat: 18.3440
+    lon: -64.7282
+  - name: Voyageurs
+    state: Minnesota
+    lat: 48.4839
+    lon: -92.8385
+  - name: White Sands
+    state: New Mexico
+    lat: 32.7872
+    lon: -106.3257
+  - name: Wind Cave
+    state: South Dakota
+    lat: 43.5569
+    lon: -103.4784
+  - name: Wrangell-St. Elias
+    state: Alaska
+    lat: 61.7101
+    lon: -142.9856
+  - name: Yellowstone
+    state: Wyoming
+    lat: 44.4280
+    lon: -110.5885
+  - name: Yosemite
+    state: California
+    lat: 37.8651
+    lon: -119.5383
+  - name: Zion
+    state: Utah
+    lat: 37.2982
+    lon: -113.0263

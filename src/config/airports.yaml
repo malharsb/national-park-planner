@@ -1,0 +1,151 @@
+airports:
+  - name: Ted Stevens Anchorage International
+    code: ANC
+    state: Alaska
+    lat: 61.1744
+    lon: -149.9964
+  - name: Phoenix Sky Harbor International
+    code: PHX
+    state: Arizona
+    lat: 33.4373
+    lon: -112.0078
+  - name: Bill and Hillary Clinton National
+    code: LIT
+    state: Arkansas
+    lat: 34.7294
+    lon: -92.2243
+  - name: Los Angeles International
+    code: LAX
+    state: California
+    lat: 33.9425
+    lon: -118.4081
+  - name: Denver International
+    code: DEN
+    state: Colorado
+    lat: 39.8561
+    lon: -104.6737
+  - name: Miami International
+    code: MIA
+    state: Florida
+    lat: 25.7959
+    lon: -80.2870
+  - name: Daniel K. Inouye International
+    code: HNL
+    state: Hawaii
+    lat: 21.3245
+    lon: -157.9251
+  - name: Indianapolis International
+    code: IND
+    state: Indiana
+    lat: 39.7173
+    lon: -86.2944
+  - name: Louisville Muhammad Ali International
+    code: SDF
+    state: Kentucky
+    lat: 38.1740
+    lon: -85.7360
+  - name: Portland International Jetport
+    code: PWM
+    state: Maine
+    lat: 43.6462
+    lon: -70.3093
+  - name: Detroit Metropolitan Wayne County
+    code: DTW
+    state: Michigan
+    lat: 42.2162
+    lon: -83.3554
+  - name: Minneapolis-Saint Paul International
+    code: MSP
+    state: Minnesota
+    lat: 44.8848
+    lon: -93.2223
+  - name: Lambert-St. Louis International
+    code: STL
+    state: Missouri
+    lat: 38.7487
+    lon: -90.3700
+  - name: Billings Logan International
+    code: BIL
+    state: Montana
+    lat: 45.8077
+    lon: -108.5428
+  - name: Harry Reid International
+    code: LAS
+    state: Nevada
+    lat: 36.0840
+    lon: -115.1537
+  - name: Albuquerque International Sunport
+    code: ABQ
+    state: New Mexico
+    lat: 35.0402
+    lon: -106.6090
+  - name: Charlotte Douglas International
+    code: CLT
+    state: North Carolina
+    lat: 35.2140
+    lon: -80.9431
+  - name: Hector International
+    code: FAR
+    state: North Dakota
+    lat: 46.9207
+    lon: -96.8158
+  - name: John Glenn Columbus International
+    code: CMH
+    state: Ohio
+    lat: 39.9980
+    lon: -82.8919
+  - name: Portland International
+    code: PDX
+    state: Oregon
+    lat: 45.5898
+    lon: -122.5951
+  - name: Charleston International
+    code: CHS
+    state: South Carolina
+    lat: 32.8986
+    lon: -80.0405
+  - name: Rapid City Regional
+    code: RAP
+    state: South Dakota
+    lat: 44.0453
+    lon: -103.0574
+  - name: Nashville International
+    code: BNA
+    state: Tennessee
+    lat: 36.1245
+    lon: -86.6782
+  - name: Dallas/Fort Worth International
+    code: DFW
+    state: Texas
+    lat: 32.8998
+    lon: -97.0403
+  - name: Cyril E. King Airport
+    code: STT
+    state: US Virgin Islands
+    lat: 18.3373
+    lon: -64.9733
+  - name: Salt Lake City International
+    code: SLC
+    state: Utah
+    lat: 40.7899
+    lon: -111.9791
+  - name: Richmond International
+    code: RIC
+    state: Virginia
+    lat: 37.5052
+    lon: -77.3197
+  - name: Seattle-Tacoma International
+    code: SEA
+    state: Washington
+    lat: 47.4502
+    lon: -122.3088
+  - name: Yeager Airport
+    code: CRW
+    state: West Virginia
+    lat: 38.3731
+    lon: -81.5932
+  - name: Jackson Hole Airport
+    code: JAC
+    state: Wyoming
+    lat: 43.6073
+    lon: -110.7377

@@ -2,6 +2,8 @@
 
 Interactive map of all US National Parks.
 
+![App Screenshot](images/2026_07_09.png)
+
 ## Setup
 
 **1. Create and activate a virtual environment**
